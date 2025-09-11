@@ -9,9 +9,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        purple: {
-          600: '#9333ea',
-        },
+        'dark-bg': '#0d1117',
+        'dark-secondary': '#161b22',
+        'dark-tertiary': '#1c2128',
+        'dark-border': '#30363d',
+      },
+      fontFamily: {
+        sans: ['Inter', 'system-ui', 'sans-serif'],
       },
     },
   },
