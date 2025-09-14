@@ -165,8 +165,8 @@ This project was created for the Cartolinks Solutions LTD internship application
 
 ## 👨‍💻 Author
 
-**Muchakazi Webster Chitova**  
-- Email: muchakaziwebster.chitova@gmail.com
+**Muchakazi Webster**  
+- Email: muchakaziwebster.it@gmail.com
 - GitHub: [@webbiemuchy](https://github.com/webbiemuchy)
 - LinkedIn: [Muchakazi Webster]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/webster-muchakazi-1b06b6353))
 
