@@ -1,7 +1,7 @@
-import Header from '@/components/Header'
-import HeroCards from '@/components/HeroCards'
-import ToolsGrid from '@/components/ToolsGrid'
-import GallerySection from '@/components/GallerySection'
+import Header from '../components/Header'
+import HeroCards from '../components/HeroCards'
+import ToolsGrid from '../components/ToolsGrid'
+import GallerySection from '../components/GallerySection'
 
 export default function Home() {
   return (
