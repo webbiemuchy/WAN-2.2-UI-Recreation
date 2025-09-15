@@ -158,3 +158,5 @@ const HeroCards = () => {
     </div>
   )
                                              }
+export default HeroCards
+
